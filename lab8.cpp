@@ -63,7 +63,7 @@ void instructions(void){
 
 void readScore(int &score){
 
-    cout << "Enter function readScore " << endl;
+        cout << "Enter function readScore " << endl;
 	score = 500;
 	cout << "Leaving function readScore " << endl;
 }
